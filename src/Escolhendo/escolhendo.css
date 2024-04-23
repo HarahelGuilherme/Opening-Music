@@ -1,0 +1,26 @@
+/* Estilos para o player de música */
+h1 {
+    color: blue;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
